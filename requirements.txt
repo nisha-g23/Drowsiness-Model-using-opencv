@@ -1,11 +1,8 @@
-# Essential packages for Streamlit YOLOv5 app
-streamlit>=1.22.0
-torch>=1.8.0
-torchvision>=0.9.0
-numpy>=1.23.5
-pandas>=1.1.4
-Pillow>=10.3.0
-PyYAML>=5.3.1
-requests>=2.32.2
-tqdm>=4.66.3
-opencv-python-headless>=4.1.1
+# Version-specific requirements to avoid compatibility issues
+streamlit==1.32.0
+torch==2.2.0
+torchvision==0.17.0
+numpy==1.24.3
+pandas==2.0.3
+Pillow==10.0.0
+ultralytics==8.1.0
