@@ -1,7 +1,7 @@
 # Version-specific requirements to avoid compatibility issues
 streamlit==1.32.0
-torch==2.5.0
-torchvision==0.18.0
+torch==2.7.0
+torchvision==0.22.0
 numpy==1.24.3
 pandas==2.0.3
 Pillow==10.0.0
